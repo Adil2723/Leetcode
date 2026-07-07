@@ -31,7 +31,8 @@ The goal is to build a well-organized knowledge base while preparing for technic
 
 ## 🚧 Status
 
-This repository is currently under development and will be updated regularly with solutions, notes, and concept revisions.
+This repository is part of my long-term learning journey. I'm currently focused on expanding my skills through coursework and personal projects, so updates will 
+be gradual. Over time, it will grow into a comprehensive collection of LeetCode solutions and Computer Science concept revisions.
 
 ---
 
@@ -39,7 +40,6 @@ This repository is currently under development and will be updated regularly wit
 
 - C++
 
-*(Additional languages may be added in the future.)*
 
 ---
 
